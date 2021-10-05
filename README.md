@@ -5,5 +5,7 @@ This test feel best way to solve the count occurances problem was to use a neste
 
 # Speed and performance of C sharp code:
 Using a for loop instead of for each loop.
+
 declaring variables with its data types before using them.
+
 String concatenation
